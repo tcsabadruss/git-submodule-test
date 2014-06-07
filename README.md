@@ -1,0 +1,2 @@
+git-submodule-test
+==================
